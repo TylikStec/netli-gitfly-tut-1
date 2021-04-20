@@ -1,0 +1,18 @@
+{
+
+	// git
+	"files.exclude": {
+		"**/.git": false
+	},
+
+	// The maximum number of outline symbols and folding regions computed (limited for performance reasons).
+	"json.maxItemsComputed": 8000,
+	"editor.tabSize": 2,
+
+  // render folders in a compact form
+  "explorer.compactFolders": false
+
+	// last edit: 2021-04-14-07h33
+	// last edit: 2020-12-21-15h17
+
+}
