@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "local repo",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./dist/* && mkdir ./dist/css && cp ./index.html ./dist/index.html && cp ./css/main.css ./dist/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
